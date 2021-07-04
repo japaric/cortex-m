@@ -95,5 +95,6 @@ pub mod itm;
 pub mod peripheral;
 pub mod prelude;
 pub mod register;
+pub mod mutex;
 
 pub use crate::peripheral::Peripherals;
